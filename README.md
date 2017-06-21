@@ -5,6 +5,7 @@
 
 1.做成类似于支付宝（如图）3dtouch和Widget功能并不难
 ![](/Images/image1.png)
+
 本程序简单实现效果（如图）
 ![](/Images/image2.png)
 
