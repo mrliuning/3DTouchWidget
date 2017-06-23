@@ -42,9 +42,5 @@
     [self showViewController:viewControllerToCommit sender:self];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
 
 @end
